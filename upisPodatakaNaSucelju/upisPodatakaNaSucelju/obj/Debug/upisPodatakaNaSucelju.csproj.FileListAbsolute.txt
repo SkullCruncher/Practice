@@ -1,0 +1,10 @@
+D:\C#projekti\upisPodatakaNaSucelju\upisPodatakaNaSucelju\bin\Debug\upisPodatakaNaSucelju.exe.config
+D:\C#projekti\upisPodatakaNaSucelju\upisPodatakaNaSucelju\bin\Debug\upisPodatakaNaSucelju.exe
+D:\C#projekti\upisPodatakaNaSucelju\upisPodatakaNaSucelju\bin\Debug\upisPodatakaNaSucelju.pdb
+D:\C#projekti\upisPodatakaNaSucelju\upisPodatakaNaSucelju\obj\Debug\upisPodatakaNaSucelju.csprojResolveAssemblyReference.cache
+D:\C#projekti\upisPodatakaNaSucelju\upisPodatakaNaSucelju\obj\Debug\upisPodatakaNaSucelju.Form1.resources
+D:\C#projekti\upisPodatakaNaSucelju\upisPodatakaNaSucelju\obj\Debug\upisPodatakaNaSucelju.Properties.Resources.resources
+D:\C#projekti\upisPodatakaNaSucelju\upisPodatakaNaSucelju\obj\Debug\upisPodatakaNaSucelju.csproj.GenerateResource.Cache
+D:\C#projekti\upisPodatakaNaSucelju\upisPodatakaNaSucelju\obj\Debug\upisPodatakaNaSucelju.csproj.CoreCompileInputs.cache
+D:\C#projekti\upisPodatakaNaSucelju\upisPodatakaNaSucelju\obj\Debug\upisPodatakaNaSucelju.exe
+D:\C#projekti\upisPodatakaNaSucelju\upisPodatakaNaSucelju\obj\Debug\upisPodatakaNaSucelju.pdb
